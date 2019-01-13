@@ -1,0 +1,13 @@
+h1, {
+    text-align: center;
+    color: rgb(48, 48, 48); 
+    position: absolute;
+ 
+  
+}
+p {
+    text-align: center;
+    color: rgb(92, 91, 91); 
+    top: 40%;
+    left: 60%;
+}
