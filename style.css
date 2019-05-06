@@ -450,10 +450,10 @@ a:hover, a:active {
 
 @media screen and (min-width: 992px){
     .yt-subscribe {
-        bottom: -200px;);
+        bottom: -200px;};
         text-align: center;
     }
-}
+
 
 /*--------------------------------------------------------------
 # Homepage
@@ -1128,20 +1128,7 @@ a:hover, a:active {
 
 /*--------------------------------------------------------------
 # Footer Instagram
---------------------------------------------------------------*/
-.footer-instagram {
-    margin-top: 60px;
-}
 
-.footer-instagram figure {
-    width: 33.333333%;
-    margin: 0;
-}
-
-.footer-instagram figure img {
-    display: block;
-    width: 100%;
-}
 
 @media screen and (min-width: 576px){
     .footer-instagram figure {
@@ -1239,4 +1226,11 @@ a:hover, a:active {
     content: "";
     clear: all;
     display: table;
+  }
+  h7{ 
+    font-family: 'Old Standard TT', serif;
+    color: rgb(82, 82, 82);
+    font-weight: bold;
+    font-size: 20px;
+
   }
